@@ -4,5 +4,4 @@
     <remote name="origin" fetch="http://github.com/dongwencai" />
     <default revision="master" remote="origin" />
     <project name="udx"  revision="master" path="udx" />
-    <project name="SDK4.6.1_tuling/tools"  revision="master" path="tools" />
 </manifest>
