@@ -4,4 +4,5 @@
     <remote name="origin" fetch="http://github.com/dongwencai" />
     <default revision="master" remote="origin" />
     <project name="udx.git"  revision="master" path="udx" />
+    <project name="rect.git"  revision="master" path="rect" />
 </manifest>
